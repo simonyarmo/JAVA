@@ -1,0 +1,6 @@
+To Run this file:
+Simply ensure all of the files are under one directory
+Than under the Driver class run public void Main(){}
+This will create the game configuration and then start the game. 
+If you wish to change the game configuration simply just change the input to the gameConfiguration function. public void gameConfiguration(int length,int guesses, Boolean showWord).
+Length represents the length of the target word (4, 5, 6), guesses is the amount of guesses you get, and showWord allows you to see the word before you guess(this allowed me to see if the code works). 
